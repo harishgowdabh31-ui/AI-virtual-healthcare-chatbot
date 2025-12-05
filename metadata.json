@@ -1,0 +1,8 @@
+{
+  "name": "HealthBot AI",
+  "description": "Your virtual healthcare assistant for symptom checking and medical report analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
